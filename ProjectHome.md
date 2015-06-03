@@ -1,0 +1,1 @@
+Simple Twitter Client extension for Chrome.
